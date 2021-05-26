@@ -1,0 +1,4 @@
+server:
+  port: 8010
+configuration:
+  text: Configurando entorno desarrollo

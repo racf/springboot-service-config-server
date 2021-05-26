@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:/home/fernando/Documentos/eclipse/workspace/springboot-servicio-config/config
+            
+server:
+  port: 8888
+  
+
