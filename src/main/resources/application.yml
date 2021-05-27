@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: file:/home/fernando/Documentos/eclipse/workspace/springboot-servicio-config/config
+          uri: https://github.com/racf/springboot-service-config-server
             
 server:
   port: 8888
